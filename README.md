@@ -1,4 +1,4 @@
-# 🦙 WhatsApp Chatbot with Flask + LLaMA (Ollama)
+#  WhatsApp Chatbot with Flask + LLaMA (Ollama)
 
 This project builds a simple RESTful chatbot service in Python using:
 
@@ -22,3 +22,12 @@ This project builds a simple RESTful chatbot service in Python using:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Connect to Twilio WhatsApp
+Create a Twilio account
+
+Configure your Webhook URL to point to:
+https://218a-2401-4900-22ca-207b-9564-cf5f-162e-4a8f.ngrok-free.app/sms
+
+Start chatting from WhatsApp!
