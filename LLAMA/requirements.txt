@@ -1,0 +1,12 @@
+flask
+requests
+twilio
+
+Install and run Ollama in WSL or Linux:
+
+bash
+Copy
+Edit
+curl -fsSL https://ollama.com/install.sh | sh
+ollama pull llama2
+ollama run llama2
