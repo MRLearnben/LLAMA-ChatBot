@@ -1,4 +1,4 @@
-#  WhatsApp Chatbot with Flask + LLaMA (Ollama)
+**#  WhatsApp Chatbot with Flask + LLaMA (Ollama)
 
 This project builds a simple RESTful chatbot service in Python using:
 
